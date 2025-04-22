@@ -1,0 +1,501 @@
+Age,Heart_Rate,Respiratory_Rate,Temperature,Blood_Pressure,Oxygen_Saturation,Symptom,Pre_Existing_Conditions,Triage_Level
+76,95,25,36.4,82,89,Headache,Hypertension,Red
+36,128,16,38.0,105,90,Headache,Diabetes,Yellow
+18,69,24,39.3,83,91,Bleeding,Asthma,Red
+9,80,29,40.5,122,95,Bleeding,Asthma,Red
+15,113,12,39.3,94,87,Chest Pain,None,Red
+79,147,29,35.7,92,90,Abdominal Pain,Hypertension,Red
+29,115,30,40.0,88,86,Chest Pain,Diabetes,Red
+48,112,18,38.6,160,85,Fever,Asthma,Red
+54,142,27,40.3,101,92,Abdominal Pain,Heart Disease,Red
+86,96,26,36.5,155,94,Seizure,Hypertension,Red
+16,143,21,35.8,106,100,Bleeding,Heart Disease,Red
+55,62,34,41.7,93,91,Headache,None,Red
+68,141,14,38.1,84,96,Difficulty Breathing,None,Red
+80,89,26,35.7,98,99,Confusion,Hypertension,Yellow
+67,74,40,40.0,120,85,Confusion,None,Red
+28,78,31,37.0,127,87,Confusion,Diabetes,Red
+54,58,31,41.8,116,90,Headache,None,Red
+46,151,27,40.5,105,96,Confusion,Heart Disease,Red
+81,124,39,38.4,118,93,Chest Pain,Asthma,Red
+20,91,36,37.4,81,90,Abdominal Pain,None,Red
+62,153,15,36.9,83,91,Abdominal Pain,None,Red
+61,131,20,36.6,158,98,Fever,Heart Disease,Red
+50,51,14,41.1,155,95,Headache,Asthma,Red
+43,135,12,40.9,85,87,Bleeding,Asthma,Red
+19,107,19,37.3,92,87,Difficulty Breathing,Diabetes,Red
+19,150,18,41.6,119,89,Difficulty Breathing,Asthma,Red
+41,158,17,39.6,93,94,Difficulty Breathing,Heart Disease,Red
+54,80,37,38.2,91,92,Difficulty Breathing,None,Red
+26,64,13,36.0,81,92,Fever,Diabetes,Red
+59,68,25,40.6,156,89,Seizure,Diabetes,Red
+51,103,15,35.7,105,87,Confusion,None,Red
+22,114,26,35.4,105,95,Chest Pain,Hypertension,Yellow
+58,104,40,41.1,85,89,Confusion,Asthma,Red
+56,85,17,38.0,81,87,Bleeding,None,Red
+49,98,23,35.2,86,88,Confusion,Heart Disease,Red
+73,100,24,40.5,105,96,Abdominal Pain,Asthma,Red
+8,55,33,38.5,134,98,Headache,Asthma,Red
+74,52,17,35.1,94,100,Fever,Diabetes,Yellow
+2,53,15,39.5,105,96,Abdominal Pain,Hypertension,Yellow
+7,106,30,38.3,131,90,Abdominal Pain,None,Yellow
+8,159,37,41.1,86,98,Bleeding,None,Red
+38,70,15,35.6,85,99,Fever,Hypertension,Red
+13,120,24,36.2,107,86,Fever,Diabetes,Red
+70,98,12,36.2,140,96,Fever,Asthma,Green
+16,52,18,37.8,158,93,Chest Pain,None,Yellow
+42,73,22,40.1,96,95,Difficulty Breathing,None,Red
+11,121,31,39.5,87,88,Difficulty Breathing,Hypertension,Red
+76,141,12,40.8,112,98,Confusion,Hypertension,Red
+30,71,21,38.3,81,96,Fever,Heart Disease,Red
+27,79,34,37.0,113,89,Headache,None,Red
+82,156,26,39.5,122,94,Seizure,Hypertension,Red
+34,105,23,35.3,134,87,Difficulty Breathing,Heart Disease,Red
+28,92,22,40.4,90,94,Chest Pain,Heart Disease,Red
+27,62,23,35.2,89,89,Confusion,None,Red
+44,59,33,38.6,151,89,Seizure,Diabetes,Red
+89,144,15,41.6,95,87,Bleeding,Asthma,Red
+18,146,12,39.6,124,97,Seizure,Diabetes,Red
+41,78,27,39.2,96,97,Bleeding,Heart Disease,Yellow
+33,84,39,38.1,126,99,Fever,Diabetes,Red
+57,51,18,37.7,159,91,Headache,Hypertension,Green
+83,152,15,40.7,84,87,Chest Pain,Hypertension,Red
+24,159,25,38.3,135,85,Headache,None,Red
+45,108,19,40.7,120,95,Chest Pain,Heart Disease,Red
+23,59,18,36.9,152,90,Chest Pain,Heart Disease,Yellow
+59,118,39,41.6,86,87,Chest Pain,Heart Disease,Red
+18,136,31,40.0,87,97,Fever,Heart Disease,Red
+84,81,16,38.8,82,97,Abdominal Pain,None,Red
+16,128,24,41.5,86,93,Difficulty Breathing,Hypertension,Red
+33,112,36,37.6,126,93,Headache,Diabetes,Red
+87,123,26,39.4,132,87,Headache,None,Red
+44,147,15,40.6,160,85,Confusion,None,Red
+35,137,36,37.6,154,92,Seizure,None,Red
+74,75,12,41.9,106,98,Chest Pain,Hypertension,Red
+76,96,27,39.0,98,100,Chest Pain,Asthma,Yellow
+6,75,27,41.4,89,88,Chest Pain,None,Red
+26,98,16,35.3,153,88,Abdominal Pain,Hypertension,Red
+59,105,33,35.9,148,99,Abdominal Pain,Asthma,Red
+19,98,25,39.4,127,91,Chest Pain,Diabetes,Yellow
+43,69,14,37.1,154,92,Seizure,Diabetes,Red
+27,101,32,37.1,152,92,Headache,Diabetes,Red
+36,148,19,39.1,123,97,Fever,Asthma,Red
+57,105,33,40.0,96,97,Chest Pain,Asthma,Red
+32,155,20,40.1,129,92,Confusion,Diabetes,Red
+48,123,14,35.1,105,88,Abdominal Pain,None,Red
+15,154,36,39.9,99,88,Bleeding,None,Red
+85,80,39,39.2,128,100,Chest Pain,None,Red
+70,109,26,38.2,108,94,Bleeding,Heart Disease,Yellow
+43,110,25,38.8,154,92,Headache,None,Yellow
+35,151,32,37.9,133,92,Bleeding,Hypertension,Red
+70,134,29,37.2,96,90,Abdominal Pain,Heart Disease,Red
+25,131,32,41.1,143,93,Difficulty Breathing,Hypertension,Red
+15,95,19,36.1,83,89,Difficulty Breathing,Diabetes,Red
+24,120,14,35.5,118,90,Fever,Asthma,Yellow
+10,59,18,40.0,138,95,Abdominal Pain,Hypertension,Yellow
+14,56,18,41.5,101,89,Abdominal Pain,Hypertension,Red
+86,128,20,36.6,110,93,Fever,Heart Disease,Yellow
+67,93,37,39.3,104,98,Confusion,Hypertension,Red
+56,124,18,35.3,140,87,Seizure,Diabetes,Red
+25,109,32,41.1,138,97,Abdominal Pain,Heart Disease,Red
+81,131,40,40.9,107,86,Confusion,None,Red
+60,72,33,42.0,143,100,Chest Pain,Diabetes,Red
+8,136,36,38.3,144,90,Bleeding,Diabetes,Red
+71,141,12,36.5,121,91,Fever,Diabetes,Red
+48,77,37,38.1,135,86,Fever,Asthma,Red
+67,109,28,36.2,105,86,Confusion,Hypertension,Red
+46,117,39,39.6,118,95,Confusion,Heart Disease,Red
+43,61,12,38.6,88,93,Seizure,Heart Disease,Red
+21,120,37,37.3,150,100,Difficulty Breathing,Heart Disease,Red
+28,112,20,37.9,94,90,Chest Pain,Heart Disease,Yellow
+61,73,35,35.7,94,98,Difficulty Breathing,None,Red
+3,151,18,40.9,148,93,Bleeding,Hypertension,Red
+50,127,34,35.6,148,97,Difficulty Breathing,Asthma,Red
+32,147,17,37.1,158,97,Headache,Hypertension,Red
+1,95,18,38.4,81,86,Fever,Hypertension,Red
+20,114,40,37.5,85,85,Bleeding,None,Red
+53,99,27,36.1,133,96,Seizure,Diabetes,Red
+2,153,31,35.7,92,94,Seizure,Asthma,Red
+21,104,27,37.3,81,90,Fever,None,Red
+80,106,13,36.7,140,85,Abdominal Pain,Heart Disease,Red
+25,127,32,36.6,133,93,Bleeding,Heart Disease,Red
+8,120,22,41.8,150,97,Difficulty Breathing,None,Red
+70,102,31,35.3,106,93,Headache,None,Red
+59,155,21,40.7,89,85,Difficulty Breathing,Heart Disease,Red
+80,127,23,35.5,128,93,Confusion,Asthma,Yellow
+17,130,26,37.7,142,91,Chest Pain,Hypertension,Yellow
+42,88,24,35.7,158,98,Fever,Hypertension,Yellow
+22,88,15,39.3,141,92,Bleeding,None,Yellow
+24,137,35,35.7,92,97,Chest Pain,Hypertension,Red
+56,154,35,40.5,127,100,Difficulty Breathing,Heart Disease,Red
+72,87,17,36.9,104,87,Fever,Heart Disease,Red
+90,80,38,37.7,153,98,Headache,Diabetes,Red
+75,137,27,39.8,99,91,Headache,Hypertension,Red
+9,96,40,36.1,106,94,Abdominal Pain,Hypertension,Red
+68,150,16,38.6,132,94,Fever,None,Red
+54,121,25,36.6,138,90,Abdominal Pain,Asthma,Yellow
+50,121,39,41.3,89,100,Difficulty Breathing,Asthma,Red
+73,143,23,36.5,81,91,Seizure,Asthma,Red
+42,85,30,39.1,155,88,Confusion,Diabetes,Red
+6,59,26,37.4,160,95,Bleeding,Asthma,Yellow
+38,79,37,41.7,104,99,Seizure,Heart Disease,Red
+33,137,22,35.4,142,89,Abdominal Pain,None,Red
+83,79,21,37.7,110,95,Fever,Hypertension,Green
+22,52,19,36.3,93,98,Fever,Asthma,Yellow
+89,136,23,41.6,87,98,Headache,Asthma,Red
+39,82,38,36.0,150,85,Headache,None,Red
+54,85,39,41.3,119,86,Confusion,Asthma,Red
+12,133,15,37.0,119,92,Bleeding,Diabetes,Red
+53,127,33,38.4,83,93,Bleeding,Hypertension,Red
+9,136,38,38.5,126,90,Headache,Asthma,Red
+24,95,18,38.7,101,100,Headache,Heart Disease,Yellow
+86,149,18,41.0,139,95,Bleeding,Diabetes,Red
+50,146,36,41.3,157,95,Confusion,Heart Disease,Red
+84,157,39,38.9,127,87,Seizure,Hypertension,Red
+14,104,28,35.3,84,90,Abdominal Pain,Heart Disease,Red
+45,149,35,41.5,139,85,Fever,Diabetes,Red
+10,75,12,36.6,99,98,Difficulty Breathing,Diabetes,Red
+24,143,27,40.8,127,97,Confusion,Asthma,Red
+26,94,39,41.8,151,87,Seizure,Asthma,Red
+42,93,15,40.8,140,89,Headache,Hypertension,Red
+7,98,15,40.4,106,95,Bleeding,Hypertension,Red
+43,56,15,39.2,91,95,Confusion,Diabetes,Yellow
+26,102,38,36.2,85,91,Confusion,Diabetes,Red
+45,94,33,38.0,110,98,Seizure,Hypertension,Red
+17,79,40,40.8,86,88,Bleeding,Hypertension,Red
+58,130,14,38.1,157,92,Abdominal Pain,None,Yellow
+6,128,16,38.1,101,97,Seizure,Asthma,Red
+59,79,30,35.8,80,99,Difficulty Breathing,Asthma,Red
+75,63,27,40.8,114,91,Confusion,Diabetes,Red
+17,106,13,35.2,88,88,Abdominal Pain,None,Red
+8,143,40,36.9,118,90,Bleeding,Diabetes,Red
+35,158,27,38.2,153,100,Abdominal Pain,Asthma,Red
+84,103,12,35.7,113,90,Chest Pain,Diabetes,Yellow
+84,55,40,38.4,111,94,Headache,Asthma,Red
+76,72,14,35.7,138,99,Abdominal Pain,None,Green
+78,130,33,35.2,142,86,Abdominal Pain,Diabetes,Red
+25,132,22,41.9,83,97,Fever,Diabetes,Red
+88,118,35,35.5,117,98,Headache,Diabetes,Red
+11,106,29,39.3,136,97,Seizure,Hypertension,Red
+60,60,22,42.0,90,98,Fever,Asthma,Red
+12,56,19,35.1,157,100,Confusion,Diabetes,Yellow
+30,114,32,40.7,135,95,Seizure,Diabetes,Red
+54,118,18,35.4,144,96,Fever,Heart Disease,Yellow
+50,73,26,41.5,130,88,Fever,Asthma,Red
+34,140,36,37.5,121,85,Difficulty Breathing,Heart Disease,Red
+44,60,40,39.0,133,90,Abdominal Pain,None,Red
+37,92,18,37.5,111,94,Headache,Heart Disease,Green
+48,116,15,36.9,129,94,Confusion,Asthma,Yellow
+28,104,21,35.6,111,88,Fever,Hypertension,Red
+9,68,35,39.5,148,100,Fever,Diabetes,Red
+69,87,39,38.3,151,85,Headache,Hypertension,Red
+40,132,16,40.5,143,86,Difficulty Breathing,None,Red
+24,80,12,38.6,151,95,Fever,Diabetes,Yellow
+32,83,22,38.6,150,90,Confusion,Heart Disease,Yellow
+44,79,25,39.0,128,87,Abdominal Pain,Diabetes,Red
+9,145,24,41.8,122,85,Bleeding,None,Red
+2,59,15,40.2,89,98,Confusion,Asthma,Red
+64,94,26,35.1,89,85,Abdominal Pain,Diabetes,Red
+30,149,34,35.2,97,100,Confusion,Heart Disease,Red
+22,116,20,41.5,81,95,Fever,Hypertension,Red
+15,71,12,39.1,136,88,Bleeding,Heart Disease,Red
+69,68,25,38.2,155,93,Chest Pain,None,Yellow
+59,62,13,40.3,147,90,Chest Pain,Asthma,Red
+77,101,22,39.7,150,88,Chest Pain,Asthma,Red
+63,92,26,41.6,158,100,Chest Pain,Asthma,Red
+13,153,17,39.5,108,94,Chest Pain,Hypertension,Red
+14,148,25,41.9,80,86,Seizure,Hypertension,Red
+71,100,21,40.1,121,89,Abdominal Pain,Diabetes,Red
+73,52,17,38.4,157,94,Confusion,Heart Disease,Yellow
+82,59,40,35.7,81,93,Headache,Asthma,Red
+12,89,23,36.6,114,97,Bleeding,Heart Disease,Yellow
+66,140,33,39.0,103,98,Difficulty Breathing,Asthma,Red
+79,74,40,35.2,144,96,Seizure,Heart Disease,Red
+9,86,40,35.6,84,91,Chest Pain,Heart Disease,Red
+22,61,34,35.8,91,87,Chest Pain,None,Red
+66,101,38,37.4,105,92,Fever,None,Red
+77,83,19,35.6,129,96,Difficulty Breathing,Asthma,Red
+9,85,17,37.1,126,97,Chest Pain,Asthma,Yellow
+38,93,25,36.6,157,87,Seizure,None,Red
+33,92,12,35.5,105,89,Fever,Asthma,Red
+42,118,16,39.0,128,99,Chest Pain,Heart Disease,Yellow
+37,121,40,37.6,144,91,Abdominal Pain,Hypertension,Red
+77,83,23,40.2,157,99,Difficulty Breathing,Heart Disease,Red
+66,64,29,40.2,155,97,Confusion,None,Red
+62,156,16,40.9,143,90,Confusion,Asthma,Red
+57,110,18,39.8,129,86,Bleeding,Asthma,Red
+72,79,16,38.5,98,90,Chest Pain,Diabetes,Yellow
+69,92,21,36.0,96,86,Headache,Diabetes,Red
+62,128,40,40.6,143,98,Chest Pain,Asthma,Red
+46,76,35,38.6,126,95,Fever,None,Red
+33,143,26,36.0,105,91,Chest Pain,Hypertension,Red
+57,120,13,38.1,160,94,Headache,Hypertension,Yellow
+23,92,40,36.6,93,89,Confusion,Diabetes,Red
+85,109,33,35.3,110,95,Fever,Heart Disease,Red
+15,113,30,35.5,104,95,Abdominal Pain,Hypertension,Yellow
+13,153,33,39.0,116,94,Bleeding,Asthma,Red
+52,104,15,38.7,128,85,Fever,Diabetes,Red
+68,135,33,39.8,130,91,Headache,Hypertension,Red
+75,112,15,37.0,160,86,Headache,Heart Disease,Red
+22,128,30,39.1,122,96,Abdominal Pain,None,Yellow
+30,98,34,41.6,146,93,Bleeding,Diabetes,Red
+61,63,12,41.2,130,88,Headache,Heart Disease,Red
+48,80,26,41.5,115,86,Confusion,Diabetes,Red
+4,104,30,41.1,126,86,Abdominal Pain,None,Red
+42,63,15,36.8,91,95,Seizure,Heart Disease,Red
+9,139,18,40.2,109,89,Chest Pain,Heart Disease,Red
+77,128,28,40.4,158,91,Difficulty Breathing,Diabetes,Red
+72,68,15,36.6,122,93,Seizure,None,Red
+20,120,13,36.2,105,99,Confusion,Asthma,Yellow
+66,78,36,36.6,117,99,Chest Pain,Diabetes,Red
+24,75,39,39.5,151,86,Seizure,Asthma,Red
+32,92,33,41.8,136,93,Seizure,Diabetes,Red
+30,58,34,39.5,150,86,Difficulty Breathing,Asthma,Red
+56,145,36,38.1,125,85,Seizure,Hypertension,Red
+13,51,15,38.8,144,85,Headache,Hypertension,Red
+5,82,40,39.6,154,100,Confusion,Asthma,Red
+62,101,30,40.9,134,97,Chest Pain,Hypertension,Red
+6,113,30,37.2,155,100,Bleeding,Heart Disease,Yellow
+63,103,36,40.3,111,92,Abdominal Pain,Asthma,Red
+73,133,21,41.7,106,98,Bleeding,Hypertension,Red
+16,114,28,36.2,97,87,Chest Pain,Asthma,Red
+73,56,13,41.5,146,91,Difficulty Breathing,None,Red
+38,125,16,39.8,98,93,Fever,None,Yellow
+9,110,34,35.6,96,97,Seizure,None,Red
+58,120,13,38.2,133,99,Headache,Asthma,Yellow
+88,74,13,39.7,132,98,Fever,Hypertension,Yellow
+89,55,20,35.9,157,88,Abdominal Pain,Heart Disease,Red
+75,103,23,37.9,129,92,Difficulty Breathing,None,Red
+67,89,33,41.0,150,90,Seizure,Heart Disease,Red
+81,115,22,37.4,128,100,Difficulty Breathing,None,Red
+24,120,16,37.6,112,91,Chest Pain,Asthma,Yellow
+78,148,19,37.9,114,100,Fever,Hypertension,Red
+6,117,32,37.9,110,90,Headache,Diabetes,Red
+66,56,20,36.4,101,88,Headache,None,Red
+33,88,26,37.6,122,97,Fever,Diabetes,Yellow
+28,66,23,37.9,160,87,Bleeding,Heart Disease,Red
+33,108,14,42.0,91,96,Headache,Hypertension,Red
+37,51,33,41.8,120,100,Headache,Diabetes,Red
+51,150,29,37.1,129,93,Bleeding,Asthma,Red
+43,129,21,36.1,134,98,Seizure,Diabetes,Red
+36,62,14,39.7,128,89,Chest Pain,Heart Disease,Red
+2,85,13,37.1,145,98,Chest Pain,None,Yellow
+22,109,18,41.5,122,98,Bleeding,Hypertension,Red
+63,117,40,38.8,81,100,Confusion,Asthma,Red
+34,62,21,38.3,144,88,Fever,Diabetes,Red
+12,91,35,36.8,127,99,Bleeding,Hypertension,Red
+4,156,12,35.5,144,95,Fever,Asthma,Red
+38,125,34,39.3,118,93,Bleeding,Heart Disease,Red
+46,141,26,40.8,88,89,Fever,None,Red
+61,94,18,40.3,93,96,Chest Pain,Asthma,Red
+40,53,26,36.1,144,98,Confusion,Diabetes,Yellow
+38,93,28,39.7,143,89,Seizure,Hypertension,Red
+49,114,20,40.3,130,98,Bleeding,Asthma,Red
+1,93,28,41.8,150,89,Bleeding,Asthma,Red
+63,71,15,39.4,135,93,Headache,None,Yellow
+90,69,39,38.1,140,91,Confusion,Diabetes,Red
+81,95,36,39.9,140,86,Confusion,Heart Disease,Red
+22,81,32,37.3,130,85,Headache,Asthma,Red
+22,97,40,41.1,99,88,Bleeding,None,Red
+9,104,17,35.5,109,85,Difficulty Breathing,Heart Disease,Red
+33,55,25,40.6,140,90,Difficulty Breathing,Hypertension,Red
+19,139,30,38.2,106,88,Headache,None,Red
+62,100,18,40.2,91,87,Chest Pain,None,Red
+12,147,39,38.1,107,94,Headache,None,Red
+13,55,34,41.8,131,89,Abdominal Pain,Heart Disease,Red
+85,112,28,40.7,110,85,Fever,Asthma,Red
+10,69,33,41.5,158,88,Headache,Heart Disease,Red
+11,107,38,39.9,114,93,Bleeding,None,Red
+76,128,35,40.2,126,91,Headache,None,Red
+65,117,35,35.7,119,97,Headache,Hypertension,Red
+7,82,36,40.2,142,100,Difficulty Breathing,Asthma,Red
+28,157,24,39.8,145,99,Fever,None,Red
+71,72,33,37.9,104,98,Chest Pain,Asthma,Red
+12,79,37,38.1,101,86,Seizure,Hypertension,Red
+79,63,22,38.6,118,92,Fever,None,Yellow
+89,61,27,38.2,86,99,Headache,None,Red
+67,151,33,35.7,121,97,Seizure,Asthma,Red
+77,124,19,36.8,86,95,Abdominal Pain,None,Red
+18,75,22,39.2,128,91,Fever,Hypertension,Yellow
+13,148,36,38.9,95,86,Confusion,Heart Disease,Red
+61,159,17,36.5,100,88,Headache,Asthma,Red
+53,119,14,36.6,93,89,Headache,Hypertension,Red
+27,72,16,41.9,116,89,Headache,None,Red
+60,86,16,35.8,111,88,Seizure,Hypertension,Red
+32,87,35,39.4,149,87,Headache,Asthma,Red
+3,86,23,38.4,124,96,Difficulty Breathing,Asthma,Red
+65,51,39,38.3,159,95,Abdominal Pain,Diabetes,Red
+42,116,18,35.3,149,95,Difficulty Breathing,None,Red
+66,150,17,36.6,151,96,Fever,Asthma,Red
+59,156,22,36.3,107,86,Seizure,None,Red
+39,81,17,36.5,114,94,Headache,Heart Disease,Green
+57,103,17,36.9,108,100,Bleeding,Diabetes,Yellow
+3,144,23,35.1,117,94,Fever,Heart Disease,Red
+19,124,16,38.2,132,97,Abdominal Pain,Asthma,Yellow
+56,56,19,36.5,106,87,Fever,Diabetes,Red
+56,98,39,39.0,120,94,Abdominal Pain,Diabetes,Red
+90,143,30,40.1,88,91,Seizure,None,Red
+30,102,33,39.1,136,88,Difficulty Breathing,Diabetes,Red
+9,147,35,40.5,135,92,Headache,Heart Disease,Red
+44,67,39,36.8,124,98,Headache,None,Red
+75,106,16,38.1,121,98,Seizure,Hypertension,Red
+62,54,23,41.7,102,87,Confusion,Diabetes,Red
+10,88,29,36.4,154,94,Headache,Diabetes,Yellow
+90,101,31,36.9,116,91,Abdominal Pain,Hypertension,Red
+3,137,33,41.3,119,96,Fever,Diabetes,Red
+79,139,38,41.6,146,98,Chest Pain,Diabetes,Red
+10,103,15,39.7,155,89,Bleeding,Hypertension,Red
+25,124,26,39.2,121,94,Confusion,Diabetes,Yellow
+16,159,27,37.6,139,93,Abdominal Pain,Asthma,Red
+66,143,34,35.5,143,100,Headache,Diabetes,Red
+58,144,34,37.0,85,97,Chest Pain,Asthma,Red
+77,125,31,37.4,99,96,Abdominal Pain,Diabetes,Red
+57,104,16,38.2,119,85,Confusion,Heart Disease,Red
+7,91,31,37.7,140,95,Chest Pain,Diabetes,Red
+3,152,30,37.3,141,88,Abdominal Pain,Heart Disease,Red
+33,146,13,38.6,92,97,Fever,Asthma,Red
+69,102,22,40.6,158,100,Confusion,Diabetes,Red
+6,124,31,37.7,96,94,Difficulty Breathing,Diabetes,Red
+88,135,33,39.9,105,93,Seizure,Heart Disease,Red
+31,146,37,41.3,106,85,Seizure,Heart Disease,Red
+10,135,38,37.8,111,98,Chest Pain,Asthma,Red
+42,153,37,39.7,139,92,Chest Pain,Diabetes,Red
+24,90,40,37.1,142,85,Bleeding,Asthma,Red
+5,127,16,41.5,159,93,Fever,Heart Disease,Red
+75,151,32,40.0,141,94,Fever,Hypertension,Red
+54,150,27,36.0,81,85,Bleeding,Hypertension,Red
+16,98,20,35.3,91,86,Confusion,Heart Disease,Red
+31,82,25,40.4,110,89,Chest Pain,Hypertension,Red
+46,139,29,37.1,113,85,Seizure,Heart Disease,Red
+28,151,14,39.8,104,99,Confusion,None,Red
+73,124,25,40.8,108,93,Fever,Hypertension,Red
+49,135,33,37.6,81,99,Difficulty Breathing,Diabetes,Red
+30,103,34,37.7,104,92,Headache,Heart Disease,Red
+60,116,16,39.8,144,94,Confusion,Diabetes,Yellow
+81,120,33,37.4,151,94,Confusion,Diabetes,Red
+13,135,35,41.2,126,89,Fever,Hypertension,Red
+78,118,40,41.3,157,95,Difficulty Breathing,None,Red
+38,77,34,35.4,160,91,Fever,Heart Disease,Red
+3,143,28,35.9,111,85,Headache,Asthma,Red
+49,62,24,36.4,102,87,Confusion,Diabetes,Red
+39,67,38,40.6,133,99,Headache,Heart Disease,Red
+89,92,24,41.3,136,90,Confusion,Heart Disease,Red
+34,127,35,39.8,147,87,Headache,Heart Disease,Red
+58,67,21,41.1,123,100,Abdominal Pain,Diabetes,Red
+44,99,35,40.1,131,96,Fever,None,Red
+7,50,36,39.8,88,96,Abdominal Pain,None,Red
+42,100,37,39.1,111,90,Chest Pain,Asthma,Red
+29,59,38,38.7,140,86,Seizure,Hypertension,Red
+18,126,23,36.1,128,85,Abdominal Pain,Heart Disease,Red
+12,55,16,39.1,97,96,Confusion,Asthma,Yellow
+2,133,30,36.3,140,85,Confusion,Hypertension,Red
+62,77,14,41.8,154,99,Difficulty Breathing,None,Red
+12,144,38,35.8,128,85,Abdominal Pain,Hypertension,Red
+19,153,33,38.0,104,86,Fever,Heart Disease,Red
+32,147,33,38.1,149,98,Fever,Asthma,Red
+52,88,25,41.5,132,94,Confusion,Diabetes,Red
+60,97,15,37.3,111,86,Fever,Asthma,Red
+60,86,39,41.8,80,95,Confusion,Diabetes,Red
+54,115,19,35.4,158,87,Confusion,Asthma,Red
+45,56,12,41.5,84,98,Chest Pain,Hypertension,Red
+75,100,33,39.9,110,93,Confusion,Diabetes,Red
+21,65,20,40.3,93,86,Headache,Heart Disease,Red
+41,114,20,40.7,106,94,Abdominal Pain,None,Red
+77,120,34,37.9,145,98,Difficulty Breathing,Hypertension,Red
+61,69,21,35.5,105,95,Seizure,Asthma,Red
+19,72,38,39.7,100,92,Fever,Diabetes,Red
+49,72,20,41.3,137,88,Headache,None,Red
+51,85,25,37.9,107,92,Headache,None,Yellow
+83,124,30,41.1,117,85,Abdominal Pain,Diabetes,Red
+83,92,27,36.0,159,97,Confusion,Heart Disease,Yellow
+84,67,22,36.6,154,97,Chest Pain,None,Yellow
+21,81,12,40.5,95,93,Seizure,Diabetes,Red
+60,55,35,38.6,121,92,Fever,Asthma,Red
+49,112,17,37.6,96,88,Headache,Heart Disease,Red
+11,79,38,39.5,121,89,Bleeding,Diabetes,Red
+67,69,17,40.0,141,90,Abdominal Pain,None,Yellow
+46,52,29,38.8,123,98,Abdominal Pain,Asthma,Yellow
+16,81,26,35.1,116,88,Bleeding,Diabetes,Red
+3,79,28,40.3,111,89,Difficulty Breathing,None,Red
+18,52,18,38.9,91,90,Seizure,Diabetes,Red
+70,158,19,41.7,119,97,Difficulty Breathing,Heart Disease,Red
+7,77,36,37.1,112,93,Difficulty Breathing,Hypertension,Red
+56,61,30,36.7,143,92,Confusion,Diabetes,Yellow
+27,131,26,40.6,148,95,Fever,Diabetes,Red
+7,107,26,41.7,146,85,Fever,Diabetes,Red
+32,115,21,36.5,140,99,Difficulty Breathing,Diabetes,Red
+14,137,27,41.4,106,92,Abdominal Pain,Heart Disease,Red
+6,89,22,36.3,95,87,Chest Pain,Diabetes,Red
+18,75,40,36.8,150,96,Fever,Asthma,Red
+16,130,19,41.6,128,86,Headache,None,Red
+74,142,30,38.9,95,93,Seizure,None,Red
+3,68,28,38.3,110,95,Abdominal Pain,Hypertension,Yellow
+80,83,36,41.1,88,97,Abdominal Pain,Hypertension,Red
+60,136,38,37.6,151,86,Difficulty Breathing,Heart Disease,Red
+32,51,15,40.5,93,92,Fever,Diabetes,Red
+62,74,38,36.7,83,98,Bleeding,Hypertension,Red
+8,134,23,35.1,99,98,Seizure,None,Red
+33,101,25,37.1,153,96,Confusion,Diabetes,Yellow
+9,147,25,39.7,131,85,Seizure,Hypertension,Red
+69,58,12,37.9,146,94,Abdominal Pain,Diabetes,Green
+29,124,30,35.4,92,90,Difficulty Breathing,None,Red
+13,106,22,36.1,110,96,Bleeding,None,Yellow
+29,73,13,38.0,125,96,Abdominal Pain,Asthma,Green
+57,157,13,37.2,124,86,Seizure,Diabetes,Red
+28,117,16,39.1,159,100,Difficulty Breathing,Diabetes,Red
+5,61,29,38.8,119,93,Chest Pain,Heart Disease,Yellow
+27,134,35,39.2,94,99,Chest Pain,Diabetes,Red
+41,74,16,39.3,92,92,Bleeding,None,Yellow
+20,53,12,36.7,154,91,Bleeding,Diabetes,Yellow
+18,57,39,39.5,108,99,Fever,None,Red
+10,74,35,38.6,131,100,Seizure,Heart Disease,Red
+69,94,14,40.2,125,88,Fever,Asthma,Red
+12,108,19,39.8,113,91,Difficulty Breathing,Heart Disease,Red
+89,146,17,41.8,159,92,Difficulty Breathing,Asthma,Red
+80,125,38,38.8,120,85,Bleeding,None,Red
+47,65,21,41.1,109,94,Fever,None,Red
+82,77,26,40.2,96,92,Chest Pain,Asthma,Red
+25,53,12,39.7,102,93,Headache,Heart Disease,Yellow
+41,102,12,40.7,98,94,Abdominal Pain,Diabetes,Red
+12,54,28,41.3,93,92,Seizure,Asthma,Red
+37,82,21,35.7,110,99,Chest Pain,Diabetes,Yellow
+17,100,38,40.5,152,89,Seizure,Hypertension,Red
+58,64,37,39.0,146,95,Headache,Asthma,Red
+33,102,12,37.1,123,94,Fever,Hypertension,Green
+84,73,15,36.7,93,95,Chest Pain,Diabetes,Yellow
+16,106,12,36.8,153,85,Abdominal Pain,None,Red
+59,111,17,39.1,101,86,Seizure,Diabetes,Red
+12,120,38,39.1,101,98,Abdominal Pain,Asthma,Red
+30,128,26,40.7,153,96,Difficulty Breathing,Diabetes,Red
+5,160,19,37.7,155,95,Chest Pain,None,Red
+33,159,16,39.5,97,96,Fever,Hypertension,Red
+65,150,14,37.6,105,99,Seizure,Diabetes,Red
+31,68,24,37.1,123,85,Chest Pain,None,Red
+79,65,39,36.2,98,97,Abdominal Pain,Hypertension,Red
+60,60,13,36.0,115,85,Abdominal Pain,Heart Disease,Red
+62,68,31,37.0,148,85,Abdominal Pain,Heart Disease,Red
+51,80,13,38.0,96,98,Difficulty Breathing,Asthma,Red
+17,109,21,41.3,102,99,Fever,Heart Disease,Red
+28,77,31,39.8,98,86,Chest Pain,Asthma,Red
+31,51,16,39.5,103,99,Confusion,Heart Disease,Yellow
+64,91,29,38.5,118,94,Chest Pain,Heart Disease,Yellow
+86,105,15,38.3,154,85,Fever,None,Red
+15,83,36,38.7,127,96,Fever,Diabetes,Red
+1,81,14,35.1,114,87,Headache,None,Red
+60,94,26,39.2,147,91,Confusion,Asthma,Yellow
+21,85,29,41.4,141,97,Fever,Heart Disease,Red
+37,51,35,41.2,156,96,Seizure,Heart Disease,Red
+86,76,34,35.4,100,93,Chest Pain,Asthma,Red
+37,108,18,41.4,141,94,Abdominal Pain,Heart Disease,Red
+35,94,40,36.4,128,88,Bleeding,Heart Disease,Red
+40,98,19,41.8,143,86,Headache,None,Red
+63,99,18,39.0,132,92,Headache,None,Yellow
+48,88,28,38.4,117,95,Bleeding,Asthma,Yellow
+62,88,14,36.6,92,100,Confusion,None,Yellow
+68,87,29,38.9,119,100,Seizure,None,Red
+20,106,24,36.5,95,91,Difficulty Breathing,Asthma,Red
+58,103,33,36.1,158,94,Headache,Hypertension,Red
+16,135,30,41.8,147,95,Bleeding,Asthma,Red
+58,141,38,38.5,142,86,Difficulty Breathing,Hypertension,Red
+31,109,29,38.3,114,87,Headache,Hypertension,Red
+70,155,15,38.6,152,93,Difficulty Breathing,Heart Disease,Red

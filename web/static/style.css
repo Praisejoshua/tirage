@@ -1,0 +1,62 @@
+/* Global Styles */
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f8f9fa;
+}
+
+.container {
+    max-width: 900px;
+    margin: 0 auto;
+}
+
+/* Form Styling */
+.form-group {
+    margin-bottom: 1.5rem;
+}
+
+/* Button Styling */
+.btn-primary {
+    background-color: #007bff;
+    border: none;
+    padding: 10px 30px;
+    font-size: 1rem;
+}
+
+.btn-primary:hover {
+    background-color: #0056b3;
+}
+
+/* Alert Boxes */
+.alert {
+    font-size: 1.2rem;
+    padding: 20px;
+    border-radius: 5px;
+    margin-top: 20px;
+}
+
+/* Colors for different triage levels */
+.alert-red {
+    background-color: #f8d7da;
+    color: #721c24;
+}
+
+.alert-yellow {
+    background-color: #fff3cd;
+    color: #856404;
+}
+
+.alert-green {
+    background-color: #d4edda;
+    color: #155724;
+}
+
+/* Responsiveness */
+@media (max-width: 768px) {
+    .form-group {
+        margin-bottom: 1rem;
+    }
+
+    .btn-primary {
+        width: 100%;
+    }
+}
