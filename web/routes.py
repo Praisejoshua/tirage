@@ -8,7 +8,8 @@ from web.models import Triage, db  # Import the Triage model and db object
 from web import app
 
 # Load the pre-trained model
-model = joblib.load("triage_model_with_encoding.joblib")
+model = joblib.load("web/triage_model_with_encoding3.joblib")
+print("Loaded model type:", type(model))
 
 # Route to the homepage
 @app.route("/", methods=["GET", "POST"])
